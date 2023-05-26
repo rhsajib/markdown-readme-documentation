@@ -28,16 +28,19 @@ _This is an italic text_
 ### bold text
 **This is an italic text**
 
+<br/>
 
 
 ### Strikethorugh
 ~~this is~~
 
+<br/>
 
 ### single line code
 `This is inline`  
 `<h1> Bangladesh </h1>`
 
+<br/>
 
 ### Multiple line code
 ```
@@ -66,6 +69,7 @@ head {
 console.log("hello");
 ```
 
+<br/>
 
 ### Ordered List
 1. Item1
@@ -74,6 +78,7 @@ console.log("hello");
    2. Item1.2
 3. Item3
 
+<br/>
 
 ### Unordered List
 - item1
@@ -82,6 +87,8 @@ console.log("hello");
 - item2
 - item3
 
+<br/>
+
 
 ### Task List
 - [x] Task1
@@ -89,23 +96,35 @@ console.log("hello");
 - [] Task1
 
 
+<br/>
+
 
 ### automatic link
 http://www.studywithanis.com
 
+
+<br/>
 
 
 ### disable link
 `http://www.studywithanis.com`
 
 
+<br/>
+
+
 ### markdown link sytax
 [youtube](http://www.youtube.com)
+
+
+<br/>
 
 
 ### markdown link sytax
 [facebook][facebooklink]
 
+
+<br/>
 
 
 ### image sytax
@@ -113,6 +132,8 @@ http://www.studywithanis.com
 <!-- ![profile](./images/me.jpg) -->
 <img src="./images/me.jpg" width="400" title="profile image"/>
 😊
+
+<br/>
 
 
 ### table sytax
